@@ -1,0 +1,73 @@
+@charset"utf-8"
+h1{
+	color: pink;
+	font-family: serif;
+	font-weight: bold;
+	background-color: teal;
+	}
+		h2{
+			color: green;
+			font-style: italic;
+			text-decoration: underline blue;
+			}
+		#likethings{
+			color: #666666;
+			text-decoration: underline purple;
+      position: static;
+		}
+		nav{
+			background-color: silver;
+			color: purple;
+			font-size: 14pt;
+		}
+		body{
+		  background-color: #ff66ff;
+			}
+		#personal{
+		  background-color: #001122;
+			}
+		#likes{
+			background-color: lightblue;
+			font-family: sans-serif;
+			font-size: 16pt;
+		}
+		#personal,#likes{
+			border: dashed;
+		}
+		table{
+		  background-color: pink;
+			font-family: sans-serif;
+
+		}
+		#picture{
+		  color: white;
+			font-family: cursive;
+		}
+		.favthings{
+		  font-style: italic;
+			color: #ff1122;
+		}
+		#form{
+			background-color: green;
+			font-size: 13pt;
+			color: black;
+			font-family: sans-serif;
+		}
+		input[type=button]{
+			background-color: teal;
+			padding: 9px;
+		}
+		#links{
+			background-color: #ff00aa;
+			border: solid;
+			font-family: sans-serif;
+		}
+		#video{
+			background-color: black;
+			color: silver;
+			font-style: italic;
+		}
+		#navbar{
+			position: fixed;
+		}
+		

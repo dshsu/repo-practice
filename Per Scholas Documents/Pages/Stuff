@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	
+<head>
+<link rel="stylesheet" type="text/css" href="file:///C:/Users/hsudi/OneDrive/Documents/Per%20Scholas%20Documents/css/style.css">
+<title> Diana's Per Scholas Website</title>
+	<h1> Welcome to Diana's Stuff!</h1>
+	<div id="navbar">
+	<p>Where to?</p>
+	<nav>
+	<a href="file:///C:/Users/hsudi/OneDrive/Documents/Per%20Scholas%20Documents/Pages/Stuff">Stuff (You are here)</a>
+	Things (Not functional right now)
+	<a href="file:///C:/Users/hsudi/OneDrive/Documents/Per%20Scholas%20Documents/index.html">Home</a>
+	</nav>
+	</div>
+</head>
+<body>
+<br>
+<br>
+<br>
+	<div id="links">
+	<p>
+	Some links to some interesting things I found will go here eventually, but for now there's nothing. Have a nice picture of Hong Kong! 
+	</p>
+	<img width="600" height="300" src="file:///C:/Users/hsudi/OneDrive/Documents/Per%20Scholas%20Documents/Pictures/Hong_Kong_Island_Skyline_2009.jpg"></img>
+	</div>
+<br>
+	<div id="video">
+	<h3> Let's look at some stuff I found on the internet!</h3>
+	<p>
+	Here's a nice video of a dog and some flowers. Isn't that relaxing?
+	</p>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/F4we73GHH9k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</body>
+</html>
